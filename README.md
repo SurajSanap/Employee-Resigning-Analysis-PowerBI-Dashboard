@@ -1,6 +1,6 @@
 # Power BI Employee Resignation Analysis
 
-![Uploading Screenshot 2023-12-19 191750.png…]()
+
 
 
 ## Overview
