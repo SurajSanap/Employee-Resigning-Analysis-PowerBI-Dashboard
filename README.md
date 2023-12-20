@@ -1,5 +1,8 @@
 # Power BI Employee Resignation Analysis
 
+![Uploading Screenshot 2023-12-19 191750.png…]()
+
+
 ## Overview
 
 This Power BI dashboard is designed to analyze employee resignations based on a dataset generated in XML format using the Python library Faker. The dataset includes information about 300 employees, including their ID, name, department, resignation date, and the reason for resignation.
