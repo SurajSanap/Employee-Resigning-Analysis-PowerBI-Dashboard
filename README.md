@@ -1,6 +1,6 @@
 # Power BI Employee Resignation Analysis
 
-
+<img width="960" alt="Screenshot 2023-12-19 191750" src="https://github.com/SurajSanap/Employee-Resigning-Analysis-PowerBI-Dashboard/assets/101057653/e559f023-27fc-45c6-9f25-0f3afa9b36fb">
 
 
 ## Overview
